@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Usage Information](#usage)
+- [Credits](#credits)
 
 ## Description
 This is a application that uses a number of dependencies like Inquirer and Colors and fs that prompts a user to ask questions in order to create a well formatted README
